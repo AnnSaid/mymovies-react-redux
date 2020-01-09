@@ -13,7 +13,7 @@ export class AllSearch extends Component {
             <SearchForm />
             {
             searchState ? 
-            <Spinner /> : 
+            null : 
             searchResult == ''  ?
             <StartPage/>:
             <MoviesList/>
