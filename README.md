@@ -1,6 +1,6 @@
 # mymovies-react-redux Web App
 
-## You can check the Live App:
+**You can check the Live App:**
 [MyMovies](https://annsaid.github.io/mymovies-react-redux/)
 
 ![mymvoies](mymovies-react-redux.png)
