@@ -10,7 +10,7 @@
 
 ### App Idea:
 - Search about movies/series
-- Get the related movies/series
-- View the movie/sereis details
+- Get the related movies/series using OMDb API
+- View the movie/sereis details 
 
 
