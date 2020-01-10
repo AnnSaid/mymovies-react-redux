@@ -1,6 +1,6 @@
 # mymovies-react-redux Web App
 
-**You can check the Live App:**
+## You can check the Live App:
 [MyMovies](https://annsaid.github.io/mymovies-react-redux/)
 
 ![mymvoies](mymovies-react-redux.png)
@@ -16,4 +16,5 @@
 - Get the related movies/series using OMDb API
 - View the movie/sereis details 
 
-
+**You can check the Live App:**
+[MyMovies](https://annsaid.github.io/mymovies-react-redux/)
