@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mymovies-react-redux/static/css/main.8aa74065.chunk.css",
+    "main.css": "/mymovies-react-redux/static/css/main.000c4c0f.chunk.css",
     "main.js": "/mymovies-react-redux/static/js/main.ed5f2922.chunk.js",
     "main.js.map": "/mymovies-react-redux/static/js/main.ed5f2922.chunk.js.map",
     "runtime-main.js": "/mymovies-react-redux/static/js/runtime-main.ed3970e4.js",
@@ -8,15 +8,15 @@
     "static/js/2.4b3fece1.chunk.js": "/mymovies-react-redux/static/js/2.4b3fece1.chunk.js",
     "static/js/2.4b3fece1.chunk.js.map": "/mymovies-react-redux/static/js/2.4b3fece1.chunk.js.map",
     "index.html": "/mymovies-react-redux/index.html",
-    "precache-manifest.61b7ce121cfc8d72bbf8264be669cc5d.js": "/mymovies-react-redux/precache-manifest.61b7ce121cfc8d72bbf8264be669cc5d.js",
+    "precache-manifest.efc164aa53d25a661074466cae120e49.js": "/mymovies-react-redux/precache-manifest.efc164aa53d25a661074466cae120e49.js",
     "service-worker.js": "/mymovies-react-redux/service-worker.js",
-    "static/css/main.8aa74065.chunk.css.map": "/mymovies-react-redux/static/css/main.8aa74065.chunk.css.map",
+    "static/css/main.000c4c0f.chunk.css.map": "/mymovies-react-redux/static/css/main.000c4c0f.chunk.css.map",
     "static/js/2.4b3fece1.chunk.js.LICENSE": "/mymovies-react-redux/static/js/2.4b3fece1.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ed3970e4.js",
     "static/js/2.4b3fece1.chunk.js",
-    "static/css/main.8aa74065.chunk.css",
+    "static/css/main.000c4c0f.chunk.css",
     "static/js/main.ed5f2922.chunk.js"
   ]
 }
