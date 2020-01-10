@@ -3,7 +3,7 @@
 **You can check the Live App:**
 [MyMovies](https://annsaid.github.io/mymovies-react-redux/)
 
-![mymvoies](mymovies-react-redux.png)
+![mymvoies](mymovies-react-redux-2.png)
 
 ## Used Techniques:
 - ReactJS
